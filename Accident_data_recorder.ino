@@ -15,10 +15,10 @@
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 
-#define WIFI_SSID "Anish Samuel"
-#define WIFI_PASSWORD "Anish Samuel"
-#define BOT_TOKEN "7030929011:AAHAuFzOANKCddvLtP1lMIxsEKdpYE24Hu8"
-#define CHAT_ID "5160133715"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define BOT_TOKEN ""
+#define CHAT_ID ""
 
 DS3231 myRTC;
 WiFiUDP ntpUDP;
