@@ -1,0 +1,1 @@
+Measure Vehicle’s acceleration, gyroscope, temperature, tyre pressure, tyre pressure and store them in a SD card to analyse the cause of an accident. Send a notification to a relative when an accident occurs.
